@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">Hi, I'm Ramiro</h1>
-    <h3 style="text-align: center;">Web developer and designer. A self-taught student who learns quickly and is ready for new challenges.</h3>
+    <h3 style="text-align: center; margin: 0 auto;">Web developer and designer. A self-taught student who learns quickly and is ready for new challenges.</h3>
     <hr>
     <div class="skills">
         <p>Skills</p>
