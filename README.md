@@ -10,3 +10,4 @@
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="width: 88px; height: 28px;">
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="width: 88px; height: 28px;">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="width: 88px; height: 28px;">
+        <a href="https://ramiromorales.tech/" target="_blank">Website</a>
