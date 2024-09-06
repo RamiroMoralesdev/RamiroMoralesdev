@@ -10,4 +10,6 @@
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="width: 88px; height: 28px;">
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="width: 88px; height: 28px;">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="width: 88px; height: 28px;">
-        <a href="https://ramiromorales.tech/" target="_blank">Website</a>
+        <img src="https://img.shields.io/badge/Astro-FD5E02?style=for-the-badge&logo=astro&logoColor=black" style="width: 88px; height: 28px;">
+        <img src="https://img.shields.io/badge/Bootstrap-7F00FF?style=for-the-badge&logo=bootstrap&logoColor=black" style="width: 88px; height: 28px;">
+        <img src="https://img.shields.io/badge/Wordpress-FFFFFF?style=for-the-badge&logo=wordpress&logoColor=black" style="width: 88px; height: 28px;">
