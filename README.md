@@ -29,6 +29,7 @@ I am a web development enthusiast with almost two years of experience, primarily
 
 - 🌱 I’m currently learning ...
   - React JS
+  - C++
     
 - 👯 I’m looking to collaborate on open-source projects and contribute to web development communities.
 ✔️ Ask me about web design or frontend technologies—I’m always happy to help!
