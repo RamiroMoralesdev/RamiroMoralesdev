@@ -34,3 +34,7 @@ I am a web development enthusiast with almost two years of experience, primarily
 - 👯 I’m looking to collaborate on open-source projects and contribute to web development communities.
 ✔️ Ask me about web design or frontend technologies—I’m always happy to help!
 - 📫 Reach out to me at: <a href="https://www.linkedin.com/in/ramimorales/">Linkedin profile</a>
+
+
+
+[![](https://github-readme-stats.vercel.app/api?username=ramiromoralesdev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ramiromoralesdev)
